@@ -1,0 +1,35 @@
+.ACF-main {
+  background: linear-gradient(
+    to right,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ACF-form {
+  width: 70%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 40px;
+  border-radius: 8px;
+}
+
+.ACF-btn,
+.ACF-I {
+  margin: 16px;
+}
+
+.ACF-btn {
+  width: 100px;
+}

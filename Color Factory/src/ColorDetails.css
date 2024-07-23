@@ -1,0 +1,13 @@
+.CD-main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.CD-p,
+.CD-L {
+  color: white;
+  font-size: 100px;
+}
